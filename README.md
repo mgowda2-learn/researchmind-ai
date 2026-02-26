@@ -22,10 +22,3 @@ python scraper/scraper.py
 
 ## Project Status
 Week 1 — Building data ingestion pipeline
-```
-
-**`.env`:**
-```
-OPENAI_API_KEY=your_openai_key_here
-AWS_ACCESS_KEY_ID=your_aws_key_here
-AWS_SECRET_ACCESS_KEY=your_aws_secret_here
